@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Sonetos</title>
+<author>Jáuregui, Juan de</author>
+<respStmt>
+<resp>UNED Máster Humanidades Digitales</resp>
+<persName>García Arias, Enrique</persName>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>Edición digital de <date>2024-01-13T17:24:05.347499</date></edition>
+</editionStmt>
+<publicationStmt>
+<p>Publicado con una licencia de <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Reconocimiento 4.0 Internacional</ref>.</p>
+</publicationStmt>
+<sourceDesc><p>Jáuregui, Juan de. <title>Poesía</title>. Ed. De Juan Matas Caballero. Madrid: Cátedra, 1993. Impreso.</p></sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<div>
+<head>A San Ignacio de Loyola</head>
+<lg>
+<l>Ved la columna que descubre <w type="rhyme">senda</w></l>
+<l>en el piélago rubro al pueblo <w type="rhyme">amado</w>,</l>
+<l>el fuego y el granizo ved <w type="rhyme">mezclado</w>,</l>
+<l>porque el egipcio su amenaza <w type="rhyme">entienda</w>.</l>
+</lg>
+<lg>
+<l>Ved sobre el mar, porque su golfo <w type="rhyme">encienda</w>,</l>
+<l>el ángel fuerte, de pureza <w type="rhyme">armado</w>,</l>
+<l>y en procelosas ondas <w type="rhyme">arrojado</w>,</l>
+<l>a Jonás ved que al ninivita <w type="rhyme">enmienda</w></l>
+</lg>
+<lg>
+<l>de Dios ved el espíritu <w type="rhyme">influyendo</w></l>
+<l>sobre las aguas; ved el arca <w type="rhyme">ufana</w>,</l>
+<l>que vida ofrece en la borrasca a <w type="rhyme">tantos</w>;</l>
+</lg>
+<lg>
+<l>así de Ignacio en la laguna <w type="rhyme">ardiendo</w></l>
+<l>veréis la caridad, que ejemplos <w type="rhyme">santos</w></l>
+<l>pudieron describir, no voz <w type="rhyme">humana</w></l>
+</lg>
+</div>
+<div>
+<head>Un amante, abrasando las prendas de su dama</head>
+<lg>
+<l>Pasó la primavera y el <w type="rhyme">verano</w></l>
+<l>de mi esperanza, y el agravio <w type="rhyme">mío</w></l>
+<l>en la estéril sazón del seco <w type="rhyme">estío</w></l>
+<l>entrega estos despojos a <w type="rhyme">Vulcano</w></l>
+</lg>
+<lg>
+<l>Bien que el sagaz amor intenta en <w type="rhyme">vano</w></l>
+<l>oponer al incendio un hielo <w type="rhyme">frío</w>,</l>
+<l>donde el turbado pecho pierde el <w type="rhyme">brío</w></l>
+<l>y se entorpece la cobarde <w type="rhyme">mano</w></l>
+</lg>
+<lg>
+<l>Mas la razón, que mi derecho <w type="rhyme">ampara</w>,</l>
+<l>quiero fomente el fuego <w type="rhyme">merecido</w>:</l>
+<l>reliquias mueran de memorias <w type="rhyme">mías</w>.</l>
+</lg>
+<lg>
+<l>Y el desengaño, como fénix <w type="rhyme">rara</w>,</l>
+<l>que estuvo de mi llama <w type="rhyme">consumido</w>,</l>
+<l>vivo renazca entre cenizas <w type="rhyme">frías</w>.</l>
+</lg>
+</div>
+<div>
+<head>Soneto</head>
+<lg>
+<l>Sobre las ondas acosado <w type="rhyme">Antonio</w>,</l>
+<l>al fuerte Augusto y a Cleopatra <w type="rhyme">mira</w>;</l>
+<l>una al dominio del incauto <w type="rhyme">aspira</w>;</l>
+<l>otra al diadema del imperio <w type="rhyme">ausonio</w>.</l>
+</lg>
+<lg>
+<l>Entrégase el amante al golfo <w type="rhyme">Jonio</w>,</l>
+<l>más encendido en vil amor que en <w type="rhyme">ira</w>;</l>
+<l>inmensa armada en su favor <w type="rhyme">conspira</w></l>
+<l>del medo y persa, egipcio y <w type="rhyme">macedonio</w></l>
+</lg>
+<lg>
+<l>Puede triunfar de Augusto <w type="rhyme">acometiendo</w>;</l>
+<l>también huyendo de Cleopatra, <w type="rhyme">puede</w></l>
+<l>vencer astuto su malicia y <w type="rhyme">arte</w></l>
+</lg>
+<lg>
+<l>Trueca la acción; y del contrario <w type="rhyme">huyendo</w>,</l>
+<l>sigue su amada fugitiva, y <w type="rhyme">cede</w></l>
+<l>ambas victorias al Amor y a <w type="rhyme">Marte</w></l>
+</lg>
+</div>
+<div>
+<head>A un navío destrozado</head>
+<lg>
+<l>Este bajel inútil, seco y <w type="rhyme">roto</w>,</l>
+<l>tan despreciado ya del agua y <w type="rhyme">viento</w>,</l>
+<l>vio indiferente el vasto <w type="rhyme">movimiento</w></l>
+<l>del proceloso mar, del Euro y <w type="rhyme">Noto</w></l>
+</lg>
+<lg>
+<l>Soberbio al golfo, humilde a su <w type="rhyme">piloto</w>,</l>
+<l>y del rico metal siempre <w type="rhyme">sediento</w>,</l>
+<l>trajo sus minas al ibero <w type="rhyme">asiento</w>,</l>
+<l>habidas en el índice <w type="rhyme">remoto</w>.</l>
+</lg>
+<lg>
+<l>Ausente yace de la selva <w type="rhyme">cara</w>,</l>
+<l>do el verde ornato conservar <w type="rhyme">pudiera</w>,</l>
+<l>mejor que pudo cargas de <w type="rhyme">tesoro</w>.</l>
+</lg>
+<lg>
+<l>Así quien sigue la codicia <w type="rhyme">avara</w>,</l>
+<l>tal vez mezquino muere en <w type="rhyme">extranjera</w></l>
+<l>provincia, falto de consuelo y <w type="rhyme">oro</w></l>
+</lg>
+</div>
+<div>
+<head>A la edad del año</head>
+<lg>
+<l>De verdes ramas y de frescas <w type="rhyme">flores</w></l>
+<l>vistió la Tierra, en su niñez <w type="rhyme">infante</w>,</l>
+<l>el virgen seno, y su vivaz <w type="rhyme">semblante</w></l>
+<l>ornó de mil guirnaldas de <w type="rhyme">colores</w></l>
+</lg>
+<lg>
+<l>Joven después, en plácidos <w type="rhyme">amores</w></l>
+<l>gozando, al cielo, su amador <w type="rhyme">constante</w>,</l>
+<l>de las entrañas, como tierna <w type="rhyme">amante</w>,</l>
+<l>de suspiros en vez, lanzó <w type="rhyme">vapores</w>.</l>
+</lg>
+<lg>
+<l>Mil frutos de sazón, el vientre <w type="rhyme">abierto</w>,</l>
+<l>luego produjo, al puro viento <w type="rhyme">ufana</w>,</l>
+<l>broca pero la faz mostrando y <w type="rhyme">ruda</w>.</l>
+</lg>
+<lg>
+<l>Hoy, arrugado, en su vejez, el <w type="rhyme">yerto</w></l>
+<l>rostro la vemos, y de nieves <w type="rhyme">cana</w>:</l>
+<l>todo la edad lo descompone y <w type="rhyme">muda</w></l>
+</lg>
+</div>
+<div>
+<head>Al sol, amaneciendo</head>
+<lg>
+<l>Rubio planeta, cuya lumbre <w type="rhyme">pura</w></l>
+<l>del tiempo mide cada punto y <w type="rhyme">hora</w>,</l>
+<l>si el bello objeto que mi pecho <w type="rhyme">adora</w></l>
+<l>sólo le gozo entre la noche <w type="rhyme">oscura</w>,</l>
+</lg>
+<lg>
+<l>¿por qué ya se adelanta y se <w type="rhyme">apresura</w></l>
+<l>tu luz injusta y el Oriente <w type="rhyme">dora</w>,</l>
+<l>las sombras alejando de la <w type="rhyme">Aurora</w>,</l>
+<l>y, con la sombras, mi feliz <w type="rhyme">ventura</w>?</l>
+</lg>
+<lg>
+<l>Dirás que, el dulce espacio <w type="rhyme">defraudado</w></l>
+<l>ya de la noche, me darás el <w type="rhyme">día</w>,</l>
+<l>tal que de vida un punto no me <w type="rhyme">debas</w></l>
+</lg>
+<lg>
+<l>Si debes; causa del ausencia <w type="rhyme">mía</w>:</l>
+<l>que es vida sólo el tiempo que me <w type="rhyme">llevas</w>;</l>
+<l>y el que me ofreces, un mortal <w type="rhyme">cuidado</w>.</l>
+</lg>
+</div>
+<div>
+<head>Soneto</head>
+<lg>
+<l>Dame el peñasco, Sísifo <w type="rhyme">cansado</w>,</l>
+<l>y tú, infelice Tántalo, tu <w type="rhyme">pena</w>;</l>
+<l>dame, Prometeo, el águila y <w type="rhyme">cadena</w>,</l>
+<l>herido el pecho, y al Caúcaso <w type="rhyme">atado</w>.</l>
+</lg>
+<lg>
+<l>Dame, Ixión, la rueda en que, <w type="rhyme">amarrado</w>,</l>
+<l>a eterno giro el cielo te <w type="rhyme">condena</w>,</l>
+<l>y llevad todos la miseria <w type="rhyme">ajena</w></l>
+<l>de un corazón en celos <w type="rhyme">abrasado</w></l>
+</lg>
+<lg>
+<l>Aliviaréis el peso a mi <w type="rhyme">tormento</w>,</l>
+<l>mientras al trueco y desigual <w type="rhyme">porfía</w></l>
+<l>fuere vuestra paciencia <w type="rhyme">poderosa</w>.</l>
+</lg>
+<lg>
+<l>Y cuando a alguno falte el <w type="rhyme">sufrimiento</w>,</l>
+<l>no juzgará después tan <w type="rhyme">rigurosa</w></l>
+<l>la pena suya, experto de la <w type="rhyme">mía</w></l>
+</lg>
+</div>
+<div>
+<head>A Nucio Cebola</head>
+<lg>
+<l>Librar del fuego la engañada <w type="rhyme">mano</w></l>
+<l>manda, Pórsena, y el acero <w type="rhyme">agudo</w>,</l>
+<l>que Mucio abrasa, de temor <w type="rhyme">desnudo</w></l>
+<l>y del castigo de sí mesmo <w type="rhyme">ufano</w></l>
+</lg>
+<lg>
+<l>La propia diestra, que el varón <w type="rhyme">romano</w></l>
+<l>ardiendo pudo ver, inmoble y <w type="rhyme">mudo</w>,</l>
+<l>ésa mirar intrépida no <w type="rhyme">pudo</w></l>
+<l>el ofendido príncipe <w type="rhyme">toscano</w></l>
+</lg>
+<lg>
+<l>En alta admiración cambia la <w type="rhyme">saña</w>,</l>
+<l>la vida al enemigo <w type="rhyme">reservando</w>,</l>
+<l>que para darle muerte armó la <w type="rhyme">diestra</w>.</l>
+</lg>
+<lg>
+<l>Feliz error, que mejoró la <w type="rhyme">hazaña</w></l>
+<l>Mano siempre feliz, pues pudo, <w type="rhyme">errando</w>,</l>
+<l>ser ejemplo de tantas y <w type="rhyme">maestra</w>.</l>
+</lg>
+</div>
+<div>
+<head>A la hazaña de don Álvaro Pérez de Guzmán el Bueno, en la defensa de Tarifa</head>
+<lg>
+<l>Las altas voces y rumor <w type="rhyme">travieso</w></l>
+<l>oye el Guzmán hispano desde el <w type="rhyme">fuerte</w>,</l>
+<l>y al hijo mira amenazado a <w type="rhyme">muerte</w>,</l>
+<l>y entre las huestes enemigas <w type="rhyme">preso</w></l>
+</lg>
+<lg>
+<l>Del paternal amor el grave <w type="rhyme">peso</w></l>
+<l>le representa su contraria <w type="rhyme">suerte</w>;</l>
+<l>mas el alto valor del pecho <w type="rhyme">fuerte</w></l>
+<l>se aventajó con espantable <w type="rhyme">exceso</w></l>
+</lg>
+<lg>
+<l>Del muro arroja su desnuda <w type="rhyme">espada</w>,</l>
+<l>y ésta sus filos en el hijo <w type="rhyme">emplea</w>;</l>
+<l>a quien dice, con voz no <w type="rhyme">alborotada</w>:</l>
+</lg>
+<lg>
+<l>«Manche el suelo tu sangre <w type="rhyme">derramada</w></l>
+<l>primero que la misma en ti se <w type="rhyme">vea</w></l>
+<l>con el infame deshonor <w type="rhyme">manchada</w> »</l>
+</lg>
+</div>
+<div>
+<head>Epitafio a las ruinas de Roma</head>
+<lg>
+<l>El nombre ausonio, que, ligera y <w type="rhyme">suelta</w>,</l>
+<l>la fama un tiempo resonó, y el <w type="rhyme">culto</w></l>
+<l>templo tarpeyo, a quien el indio <w type="rhyme">oculto</w></l>
+<l>rindió tesoros, y el iberio <w type="rhyme">celta</w>,</l>
+</lg>
+<lg>
+<l>aquí difunto yace Aquí, <w type="rhyme">resuelta</w></l>
+<l>la piedra en polvo y el antiguo <w type="rhyme">vulto</w>,</l>
+<l>nos muestra Roma su sepulcro <w type="rhyme">inculto</w>,</l>
+<l>en las cenizas de sí misma <w type="rhyme">envuelta</w></l>
+</lg>
+<lg>
+<l>Fue rara Fénix, que su cuerpo <w type="rhyme">mismo</w></l>
+<l>quiso abrasar en encendidas <w type="rhyme">guerras</w>,</l>
+<l>porque su vida renovase el <w type="rhyme">vuelo</w></l>
+</lg>
+<lg>
+<l>Y si un tiempo rigió las anchas <w type="rhyme">tierras</w>,</l>
+<l>hoy estiende desde ellas al <w type="rhyme">abismo</w></l>
+<l>su sacro imperio, y al empíreo <w type="rhyme">cielo</w></l>
+</lg>
+</div>
+<div>
+<head>Condena al fabricar soberbios palacios</head>
+<lg>
+<l>¡Ay, de cuán poco sirve al <w type="rhyme">arrogante</w></l>
+<l>el edificio que, soberbio <w type="rhyme">empina</w></l>
+<l>sobre pilastras de Tenaro, y <w type="rhyme">fina</w></l>
+<l>de mármol piedra, y color <w type="rhyme">cambiante</w>!</l>
+</lg>
+<lg>
+<l>Pues cuanto más del suelo se <w type="rhyme">levante</w></l>
+<l>máquina excelsa, al cielo <w type="rhyme">convecina</w>,</l>
+<l>tanto más cerca atiende a su <w type="rhyme">ruina</w>,</l>
+<l>tanto más cerca al rayo del <w type="rhyme">Tonante</w></l>
+</lg>
+<lg>
+<l>Consumirá en los jaspes su <w type="rhyme">tesoro</w>;</l>
+<l>y consumidos de la propia <w type="rhyme">suerte</w></l>
+<l>ellos serán, en términos <w type="rhyme">ligero</w>.</l>
+</lg>
+<lg>
+<l>Y, por ventura, entre alabastros y <w type="rhyme">oro</w></l>
+<l>del alto capitel, verá su <w type="rhyme">muerte</w>,</l>
+<l>pobre y desnudo, el sucesor <w type="rhyme">primero</w></l>
+</lg>
+</div>
+<div>
+<head>La virtud a la envidia</head>
+<lg>
+<l>Juez que enormes culpas no <w type="rhyme">corriges</w>,</l>
+<l>y la Virtud condenas y <w type="rhyme">aborreces</w>;</l>
+<l>tú, que en la ajena dicha te <w type="rhyme">entristeces</w>,</l>
+<l>y el daño ajeno por alivio <w type="rhyme">eliges</w>;</l>
+</lg>
+<lg>
+<l>Envidia, que traidoras armas <w type="rhyme">riges</w>,</l>
+<l>y, a tu pesar, si el ánimo <w type="rhyme">embraveces</w>,</l>
+<l>al envidiado honoras y <w type="rhyme">engrandeces</w>,</l>
+<l>y al envidioso con ahínco <w type="rhyme">afliges</w>,</l>
+</lg>
+<lg>
+<l>hacer podrás de tu veneno <w type="rhyme">empleo</w></l>
+<l>turbando el pecho que mis obras <w type="rhyme">culpa</w>;</l>
+<l>que en mí no alberga de tu fuego <w type="rhyme">indicio</w>.</l>
+</lg>
+<lg>
+<l>Y otra mayor venganza no <w type="rhyme">deseo</w></l>
+<l>del que me envidia que su propia <w type="rhyme">culpa</w>,</l>
+<l>donde es castigo de sí mesmo el <w type="rhyme">vicio</w></l>
+</lg>
+</div>
+<div>
+<head>En una estatua del rey Filipo III, esculpida por insigne artífice toscano. (Pedro Taca. Carrara 80 – Florencia. 1640)</head>
+<lg>
+<l>Lisipo, a solas, el trasunto <w type="rhyme">vero</w></l>
+<l>pudo esculpir del macedonio <w type="rhyme">Marte</w>,</l>
+<l>do, reguladas fuerzas y <w type="rhyme">arte</w>,</l>
+<l>fue el escultor igual a su <w type="rhyme">guerrero</w></l>
+</lg>
+<lg>
+<l>Pues tú que agora juntas, Marte <w type="rhyme">ibero</w>,</l>
+<l>al mundo antiguo tu segunda <w type="rhyme">parte</w>,</l>
+<l>bien debe, quien intenta <w type="rhyme">figurarte</w>,</l>
+<l>sobrar la industria del buril <w type="rhyme">primero</w>.</l>
+</lg>
+<lg>
+<l>Mas como de Alejandro el <w type="rhyme">soberano</w></l>
+<l>reino te aumenta el cielo, gran <w type="rhyme">Filipo</w>,</l>
+<l>así te da escultor que al suyo <w type="rhyme">eccede</w></l>
+</lg>
+<lg>
+<l>Ya ves docta labor en tosca <w type="rhyme">mano</w>,</l>
+<l>que , oscureciendo el arte de <w type="rhyme">Lisipo</w>,</l>
+<l>tu espíritu infundir al mármol <w type="rhyme">puede</w>.</l>
+</lg>
+</div>
+<div>
+<head>En el túmulo que fabricó Sevilla a la reina Doña Margarita</head>
+<lg>
+<l>Hoy, por Vandalia insigne y su <w type="rhyme">cabeza</w>,</l>
+<l>magnífico sepulcro al cuerpo <w type="rhyme">santo</w></l>
+<l>de Margarita se dedica, en <w type="rhyme">tanto</w></l>
+<l>que el alma goza de mayor <w type="rhyme">alteza</w></l>
+</lg>
+<lg>
+<l>No el rico adorno y la imperial <w type="rhyme">grandeza</w></l>
+<l>mueva a curiosa admiración y <w type="rhyme">espanto</w></l>
+<l>los ojos mismos: que a dolor y a <w type="rhyme">llanto</w></l>
+<l>debe mover, y a funeral <w type="rhyme">tristeza</w></l>
+</lg>
+<lg>
+<l>Ya en cuanto espacio el universo <w type="rhyme">estiende</w></l>
+<l>su grave faz, todo placer <w type="rhyme">destierra</w></l>
+<l>la Muerte, ufana de tan noble <w type="rhyme">palma</w></l>
+</lg>
+<lg>
+<l>Ella se alegre; alégrese la <w type="rhyme">tierra</w>,</l>
+<l>que las cenizas envolver <w type="rhyme">pretende</w>;</l>
+<l>y el cielo puro, que atesora el <w type="rhyme">alma</w>.</l>
+</lg>
+</div>
+<div>
+<head>Soneto amoroso</head>
+<lg>
+<l>Burla o blasona la corcilla o <w type="rhyme">gama</w>,</l>
+<l>bien guarecida entre su bosque <w type="rhyme">espeso</w>,</l>
+<l>del gran lebrel y acosador <w type="rhyme">sabueso</w>,</l>
+<l>cuyo ladrido la amenaza y <w type="rhyme">llama</w>.</l>
+</lg>
+<lg>
+<l>Mas si, engañada de la hierba y <w type="rhyme">grama</w>,</l>
+<l>al raso campo estiende el pie <w type="rhyme">travieso</w>,</l>
+<l>muriendo paga su ligero <w type="rhyme">ecceso</w>,</l>
+<l>y en vano el gremio de las selvas <w type="rhyme">ama</w>.</l>
+</lg>
+<lg>
+<l>Así, mientras cerrado en mi <w type="rhyme">aspereza</w></l>
+<l>viví, burlaba, Amor, de tus <w type="rhyme">rigores</w>;</l>
+<l>mas engañóme un rostro <w type="rhyme">lisonjero</w>.</l>
+</lg>
+<lg>
+<l>Salí de mí, siguiendo la <w type="rhyme">belleza</w></l>
+<l>de un paraíso con perpetuas <w type="rhyme">flores</w>,</l>
+<l>donde a tus manos rigurosas <w type="rhyme">muero</w></l>
+</lg>
+</div>
+<div>
+<head>Soneto</head>
+<lg>
+<l>Si en el amado pecho más <w type="rhyme">constante</w></l>
+<l>teme el olvido el amador <w type="rhyme">ausente</w>,</l>
+<l>porque en la ausencia el tiempo no <w type="rhyme">consiente</w></l>
+<l>memoria o voluntad <w type="rhyme">perseverante</w>,</l>
+</lg>
+<lg>
+<l>yo, que en presencia (miserable <w type="rhyme">amante</w>)</l>
+<l>no fui correspondido, y al <w type="rhyme">presente</w></l>
+<l>mi ausencia Filis no recela o <w type="rhyme">siente</w>,</l>
+<l>¿qué olvido espero a su rigor <w type="rhyme">bastante</w>?</l>
+</lg>
+<lg>
+<l>Esta imaginación al alma <w type="rhyme">asida</w></l>
+<l>mil muertes puede darme; y yo, con <w type="rhyme">ella</w>,</l>
+<l>ser puedo a mis tormentos <w type="rhyme">homicida</w></l>
+</lg>
+<lg>
+<l>Mas como agradan a su causa <w type="rhyme">bella</w></l>
+<l>tanto mis males, me reserva en <w type="rhyme">vida</w>:</l>
+<l>que es mayor mal que lo será el <w type="rhyme">perdella</w></l>
+</lg>
+</div>
+<div>
+<head>Un ausente, navegando</head>
+<lg>
+<l>Jamás por larga ausencia, amada <w type="rhyme">Flora</w>,</l>
+<l>sentir podrá mi fe mudanza <w type="rhyme">alguna</w>,</l>
+<l>bien que me engolfe y lleve la <w type="rhyme">Fortuna</w></l>
+<l>por la remota mar hircana o <w type="rhyme">mora</w>.</l>
+</lg>
+<lg>
+<l>Si en cada espuma que levanta <w type="rhyme">agora</w>,</l>
+<l>brillando el agua al rayo de la <w type="rhyme">luna</w>,</l>
+<l>naciesen Venus ciento, y cada <w type="rhyme">una</w></l>
+<l>fuese de un nuevo Amor <w type="rhyme">engendradora</w>,</l>
+</lg>
+<lg>
+<l>y éstos y aquéllas, con igual <w type="rhyme">denuedo</w>,</l>
+<l>cuidasen aumentar el fuego <w type="rhyme">mío</w>,</l>
+<l>ni se aumentara, ni mi fe <w type="rhyme">creciera</w>.</l>
+</lg>
+<lg>
+<l>Y aunque de acrecentalla <w type="rhyme">desconfío</w>,</l>
+<l>vivo en eterno afán, porque no <w type="rhyme">puedo</w></l>
+<l>quereros tanto como yo <w type="rhyme">quisiera</w>.</l>
+</lg>
+</div>
+<div>
+<head>En el día de la presentación</head>
+<lg>
+<l>El justo Simeón al Verbo <w type="rhyme">humano</w></l>
+<l>abraza, y a la muerte <w type="rhyme">apetecida</w></l>
+<l>grato se ofrece, al tiempo que la <w type="rhyme">Vida</w></l>
+<l>tiene, y el mismo Espíritu, en su <w type="rhyme">mano</w></l>
+</lg>
+<lg>
+<l>Y cual sonoro cisne, el sabio <w type="rhyme">anciano</w>,</l>
+<l>ya su esperanza y gran edad <w type="rhyme">cumplida</w>,</l>
+<l>alegre de su fin, la <w type="rhyme">agradecida</w></l>
+<l>voz funeral así levanta <w type="rhyme">ufano</w>:</l>
+</lg>
+<lg>
+<l>«La muerte agora (oh, claro sol, que <w type="rhyme">abierta</w></l>
+<l>senda nos muestras a la vida <w type="rhyme">ausente</w>!)</l>
+<l>llegue, y en paz el cuerpo <w type="rhyme">desanime</w></l>
+</lg>
+<lg>
+<l>«No precie ya, quien ve tu luz <w type="rhyme">presente</w>,</l>
+<l>ver otra luz; ni el que la firme y <w type="rhyme">cierta</w></l>
+<l>salud alcanza, la mortal <w type="rhyme">estime</w> »</l>
+</lg>
+</div>
+<div>
+<head>A la invención de la cruz</head>
+<lg>
+<l>Siempre del Redentor <w type="rhyme">crucificado</w></l>
+<l>la cruz fue semejante <w type="rhyme">imitadora</w>:</l>
+<l>si en ella Cristo se recuesta y <w type="rhyme">mora</w>,</l>
+<l>ella le carga el hombro <w type="rhyme">delicado</w></l>
+</lg>
+<lg>
+<l>El honra el leño de la cruz <w type="rhyme">sagrado</w>;</l>
+<l>la cruz al Cristo ensalza, al mismo <w type="rhyme">honora</w>;</l>
+<l>hoy ella resucita <w type="rhyme">vencedora</w>,</l>
+<l>y fue, cual Dios, su leño <w type="rhyme">sepultado</w>.</l>
+</lg>
+<lg>
+<l>Si Magdalena busca y halla a <w type="rhyme">Cristo</w>,</l>
+<l>hoy a la cruz Elena busca y <w type="rhyme">halla</w></l>
+<l>Él vence y huella la región <w type="rhyme">precita</w>.</l>
+</lg>
+<lg>
+<l>Ella a Majencio rompe y <w type="rhyme">avasalla</w></l>
+<l>Muchos, tras El, resucitar fue <w type="rhyme">visto</w>:</l>
+<l>así la cruz los muertos <w type="rhyme">resucita</w>.</l>
+</lg>
+</div>
+<div>
+<head>A la coronación de Nuestra Señora</head>
+<lg>
+<l>Sois nueva esfera, ¡oh, Virgen!, que la <w type="rhyme">mente</w></l>
+<l>descubre eterna y su saber <w type="rhyme">pregona</w>,</l>
+<l>con sol y luna, cuya luz <w type="rhyme">blasona</w></l>
+<l>de las que habitan el confín de <w type="rhyme">Oriente</w>;</l>
+</lg>
+<lg>
+<l>y el Artífice labra <w type="rhyme">omnipotente</w></l>
+<l>de estrellas doce espléndida <w type="rhyme">corona</w>,</l>
+<l>cual doce signos de luciente <w type="rhyme">zona</w>,</l>
+<l>que el cielo os ciñan de la sacra <w type="rhyme">frente</w></l>
+</lg>
+<lg>
+<l>Sois orbe, cuya bella <w type="rhyme">compostura</w></l>
+<l>nunca nocivas apariencias <w type="rhyme">hace</w>,</l>
+<l>ni con lo adverso lo feliz <w type="rhyme">alterna</w>;</l>
+</lg>
+<lg>
+<l>y al que debajo de sus astros <w type="rhyme">nace</w></l>
+<l>en la virtud, le anuncia y <w type="rhyme">asegura</w></l>
+<l>siempre felicidad y gloria <w type="rhyme">eterna</w></l>
+</lg>
+</div>
+<div>
+<head>A la paloma que salió de la boca desta santa en su muerte</head>
+<lg>
+<l>La cándida paloma, honor del <w type="rhyme">suelo</w>,</l>
+<l>que es la perfecta y una, a quien su <w type="rhyme">Esposo</w></l>
+<l>llamó del monte Líbano <w type="rhyme">frondoso</w>,</l>
+<l>ya parte, a su llamado, del <w type="rhyme">Carmelo</w></l>
+</lg>
+<lg>
+<l>Pasó el rigor del invernizo <w type="rhyme">yelo</w>,</l>
+<l>y del cóncavo nido <w type="rhyme">pedregoso</w>,</l>
+<l>vuela a gozar del íntimo <w type="rhyme">reposo</w>:</l>
+<l>ved cual se encumbra; ya penetra el <w type="rhyme">Cielo</w></l>
+</lg>
+<lg>
+<l>¡Oh, cuánto la remira el que la <w type="rhyme">aguarda</w></l>
+<l>desde sus pies hasta sus ojos <w type="rhyme">bellos</w>!</l>
+<l>¡Oh, cuál la admite con abiertos <w type="rhyme">brazos</w>!</l>
+</lg>
+<lg>
+<l>Alegre puedes acogerte en <w type="rhyme">ellos</w>,</l>
+<l>do con tu Esposo dulce, ave <w type="rhyme">gallarda</w>,</l>
+<l>unida vivas en eternos <w type="rhyme">lazos</w>.</l>
+</lg>
+</div>
+<div>
+<head>Soneto</head>
+<lg>
+<l>Triunfó la culpa, incontrastable y <w type="rhyme">fiera</w>,</l>
+<l>hasta que el Cielo resolvió, <w type="rhyme">aplacado</w>,</l>
+<l>que una Virgen sin mancha de <w type="rhyme">pecado</w>,</l>
+<l>la atropellara y su altivez <w type="rhyme">rindiera</w>.</l>
+</lg>
+<lg>
+<l>Dio al hombre Dios su libertad <w type="rhyme">primera</w>,</l>
+<l>y estableció, por mejorar su <w type="rhyme">estado</w>,</l>
+<l>el Sacerdocio santo, en que <w type="rhyme">humanado</w></l>
+<l>le goza, y siempre de gozarle <w type="rhyme">espera</w></l>
+</lg>
+<lg>
+<l>Hoy, que la Virgen sigue su <w type="rhyme">victoria</w>,</l>
+<l>ya votan su limpieza, en voz <w type="rhyme">festiva</w>,</l>
+<l>los Sacerdotes con fervor <w type="rhyme">devoto</w>.</l>
+</lg>
+<lg>
+<l>Bien oprimida yaces, culpa <w type="rhyme">altiva</w>,</l>
+<l>pues son tu oprobio eterno, y nuestra <w type="rhyme">gloria</w>,</l>
+<l>Virgen, Limpieza, Sacerdocio, y <w type="rhyme">voto</w>.</l>
+</lg>
+</div>
+<div>
+<head>Soneto amoroso</head>
+<lg>
+<l>Burla y blasona la corcilla o <w type="rhyme">gama</w>,</l>
+<l>bien guarnecida entre su bosque <w type="rhyme">espeso</w>,</l>
+<l>del gran lebrel, y acosador <w type="rhyme">sabueso</w>,</l>
+<l>cuyo ladrido la amenaza y <w type="rhyme">llama</w>.</l>
+</lg>
+<lg>
+<l>Mas si engañada de la hierba y <w type="rhyme">grama</w>,</l>
+<l>al raso campo extiende el pie <w type="rhyme">travieso</w>,</l>
+<l>muriendo paga su ligero <w type="rhyme">exceso</w>,</l>
+<l>y en vano el gremio de las selvas <w type="rhyme">ama</w>.</l>
+</lg>
+<lg>
+<l>Así mientras cerrado en mi <w type="rhyme">aspereza</w></l>
+<l>viví, burlaba (Amor) de tus <w type="rhyme">rigores</w>,</l>
+<l>mas engañome un rostro <w type="rhyme">lisonjero</w>;</l>
+</lg>
+<lg>
+<l>salí de mí, siguiendo la <w type="rhyme">belleza</w></l>
+<l>de un paraíso con perpetuas <w type="rhyme">flores</w>,</l>
+<l>donde a tus manos rigurosas <w type="rhyme">muero</w></l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>
