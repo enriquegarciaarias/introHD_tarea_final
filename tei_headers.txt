@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>**</title>
+<author>**</author>
+<respStmt>
+<resp>UNED Máster Humanidades Digitales</resp>
+<persName>García Arias, Enrique</persName>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>Edición digital de <date>**</date></edition>
+</editionStmt>
+<publicationStmt>
+<p>Publicado con una licencia de <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Reconocimiento 4.0 Internacional</ref>.</p>
+</publicationStmt>
+<sourceDesc>**</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>

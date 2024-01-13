@@ -1,0 +1,23 @@
+<file>disco089g_0161</file><title>A San Ignacio de Loyola</title>
+<file>disco089g_0162</file><title>Un amante, abrasando las prendas de su dama</title>
+<file>disco089g_0163</file><title>Soneto</title>
+<file>disco089g_0164</file><title>A un navío destrozado</title>
+<file>disco089g_0165</file><title>A la edad del año</title>
+<file>disco089g_0166</file><title>Al sol, amaneciendo</title>
+<file>disco089g_0167</file><title>Soneto</title>
+<file>disco089g_0168</file><title>A Nucio Cebola</title>
+<file>disco089g_0169</file><title>A la hazaña de don Álvaro Pérez de Guzmán el Bueno, en la defensa de Tarifa</title>
+<file>disco089g_0170</file><title>Epitafio a las ruinas de Roma</title>
+<file>disco089g_0171</file><title>Condena al fabricar soberbios palacios</title>
+<file>disco089g_0172</file><title>La virtud a la envidia</title>
+<file>disco089g_0173</file><title>En una estatua del rey Filipo III, esculpida por insigne artífice toscano. (Pedro Taca. Carrara 80 – Florencia. 1640)</title>
+<file>disco089g_0174</file><title>En el túmulo que fabricó Sevilla a la reina Doña Margarita</title>
+<file>disco089g_0175</file><title>Soneto amoroso</title>
+<file>disco089g_0176</file><title>Soneto</title>
+<file>disco089g_0177</file><title>Un ausente, navegando</title>
+<file>disco089g_0178</file><title>En el día de la presentación</title>
+<file>disco089g_0179</file><title>A la invención de la cruz</title>
+<file>disco089g_0180</file><title>A la coronación de Nuestra Señora</title>
+<file>disco089g_0181</file><title>A la paloma que salió de la boca desta santa en su muerte</title>
+<file>disco089g_0182</file><title>Soneto</title>
+<file>disco089g_0183</file><title>Soneto amoroso</title>
